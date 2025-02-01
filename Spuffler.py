@@ -35,7 +35,7 @@ def process_playlist(client_id, client_secret, playlist_id):
         for artist, track_id in tracks:
             artist_songs[artist].append(track_id)
 
-        print("Artists before shuffling:", list(artist_songs.keys()))
+        print("Artists before Spuffling:", list(artist_songs.keys()))
 
         artists = list(artist_songs.keys())
         random.shuffle(artists)
