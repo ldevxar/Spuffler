@@ -12,7 +12,7 @@ Spuffler is a Python script that shuffles a Spotify playlist while ensuring that
 
 # Setup Instructions:
 ## Create a Spotify Developer Account:
-- Go to Spotify Developer Dashboard.
+- Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
 - Create an app to get your Client ID and Client Secret.
 - Get Playlist ID: https://open.spotify.com/playlist/{playlist_id}
 
