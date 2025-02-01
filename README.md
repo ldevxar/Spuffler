@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="180" src="https://i.imgur.com/3ePq1RL.png">
+  <p align="center">Spuffler (Python Script)</p>
+</p>
+
 # Spuffler
 Spuffler is a Python script that shuffles a Spotify playlist while ensuring that songs from the same artist don't play consecutively
 
