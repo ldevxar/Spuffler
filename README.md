@@ -10,7 +10,7 @@ Spuffler is a Python script that shuffles a Spotify playlist while ensuring that
 - Python: https://www.python.org/downloads/
 - Spotipy: pip install spotipy
 
- Setup Instructions:
+# Setup Instructions:
 ## Create a Spotify Developer Account:
 - Go to Spotify Developer Dashboard.
 - Create an app to get your Client ID and Client Secret.
