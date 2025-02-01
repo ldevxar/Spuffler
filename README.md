@@ -7,7 +7,7 @@
 Spuffler is a Python script that shuffles a Spotify playlist while ensuring that songs from the same artist don't play consecutively
 
 # Requirements:
-- Python: https://www.python.org/downloads/
+- Python: [here](https://www.python.org/downloads/)
 - Spotipy: pip install spotipy
 
 # Setup Instructions:
